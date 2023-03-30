@@ -40,4 +40,4 @@ y también se puede poner:
 
 `spiderfoot -m sfp_elpdnsresolver -s google.es`
 
-Dado que se adminten campos del tipo DOMAIN_NAME e INTERNET_NAME
+Dado que se adminten campos del tipo **DOMAIN_NAME** e **INTERNET_NAME**
